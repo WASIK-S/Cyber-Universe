@@ -54,6 +54,3 @@ All commands are useful for regular day-to-day activities.
 ## 4️⃣ Confidence Level After Day 1
 
 **10 / 10 — Very Confident**
-
-```
-```
